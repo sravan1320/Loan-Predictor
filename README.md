@@ -1,7 +1,6 @@
-!#[Title] (Loan.png)
+![title] (Loan.png)
 
-#[Loan Predictor]
-
+#Loan Predictor – Machine Learning Hackathon
 
 Problem Statement
 About Company
